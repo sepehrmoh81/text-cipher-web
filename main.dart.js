@@ -76827,7 +76827,7 @@ s=A.c(["VazirmatnUI"],o)
 o=A.JI(A.fx(q,q,q,q,q,q,q,q,p,A.c(["VazirmatnUI"],o),q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),A.fx(q,q,q,q,q,q,q,q,p,A.c(["VazirmatnUI"],o),q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,q,q,q,q,q,q,q,q,q,q,q,q)
 o=A.oo(q,A.ajK(B.a0,q,q,B.dW),p,s,o,!0)
 s=this.d
-return new A.wp(new A.uk(this.gaa8(),s,q),"Persian Text Cipher",r,o,s,!1,q)}}
+return new A.wp(new A.uk(this.gaa8(),s,q),"Text Cipher",r,o,s,!1,q)}}
 A.adR.prototype={
 $0(){var s=this.a
 s.d=s.d===B.kG?B.hH:B.kG},
